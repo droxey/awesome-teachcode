@@ -9,6 +9,7 @@
 1. [Diagramming](#Diagramming)
 1. [Feedback](#Feedback)
 1. [Grading](#Grading)
+1. [Learning Objectives](#Learning-Objectives)
 1. [Presentations](#Presentations)
 1. [Recording](#Recording)
 
@@ -34,6 +35,11 @@
 
 * **[gitinspector](https://github.com/ejwa/gitinspector)**: Statistical analysis tool for git repositories. The default analysis shows general statistics per author, which can be complemented with a timeline analysis that shows the workload and activity of each author. Under normal operation, it filters the results to only show statistics about a number of given extensions and by default only includes source files in the statistical analysis.
 * **[degit](https://github.com/Rich-Harris/degit)**: Makes copies of git repositories. Run `degit some-user/some-repo`, and degit will find the latest commit on https://github.com/some-user/some-repo and download the associated tar file to `~/.degit/some-user/some-repo/commithash.tar.gz` if it doesn't already exist locally. 
+
+## Learning Objectives
+
+* **[List of Measurable Verbs](https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml)**: A list of measurable verbs to assist you in writing course objectives and assess learning outcomes.
+* **[Objectives Builder](http://teachonline.asu.edu/objectives-builder/)**: Use the ASU Online Objectives Builder tool to write measurable course outcomes and learning objectives.
 
 ## Presentations
 
