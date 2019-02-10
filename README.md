@@ -1,6 +1,8 @@
 # awesome-teachcode
 
-🎓 Awesome resources to use in the classroom, when writing tutorials, and when grading code-based assignments.
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
+
+🎓 Resources to use in the classroom, when writing tutorials, lesson plans/learning objectives, and when grading code-based assignments.
 
 ## Table of Contents
 
