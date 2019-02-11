@@ -10,7 +10,7 @@
 1. [Deployment](#Deployment)
 1. [Diagramming](#Diagramming)
 1. [Feedback](#Feedback)
-1. [Grading](#Grading)
+1. [Code Reviews](#Code-Reviews)
 1. [Learning Objectives](#Learning-Objectives)
 1. [Presentations](#Presentations)
 1. [Recording](#Recording)
@@ -33,8 +33,10 @@
 
 * **[Poll Everywhere](https://www.polleverywhere.com)**: Engage your class in real-time. Poll Everywhere transforms one-sided presentations into two-way conversations with an audience. This web-based audience response system lets you embed interactive activities directly into your presentation. The audience responds on the web or via SMS texting on their phones.
 
-## Grading 
+## Code Reviews
 
+* **[reviewable.io](https://reviewable.io/)**: GitHub code reviews done right.
+* **[CodeStream](https://github.com/TeamCodeStream/CodeStream)**: CodeStream is the knowledge base behind your codebase. Your dev team's discussions about code happen right inside the IDE, and are saved permanently with the code blocks to which they refer. That way your team, including its future members, benefits from working with an annotated codebase. With each discussion, your knowledge base grows and your codebase gets smarter over time.
 * **[gitinspector](https://github.com/ejwa/gitinspector)**: Statistical analysis tool for git repositories. The default analysis shows general statistics per author, which can be complemented with a timeline analysis that shows the workload and activity of each author. Under normal operation, it filters the results to only show statistics about a number of given extensions and by default only includes source files in the statistical analysis.
 * **[degit](https://github.com/Rich-Harris/degit)**: Makes copies of git repositories. Run `degit some-user/some-repo`, and degit will find the latest commit on https://github.com/some-user/some-repo and download the associated tar file to `~/.degit/some-user/some-repo/commithash.tar.gz` if it doesn't already exist locally. 
 
