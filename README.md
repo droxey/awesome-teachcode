@@ -23,7 +23,8 @@
 
 * **[Glitch](https://glitch.com)**: Glitch is the friendly community where everyone can discover and create the best stuff on the web.
 * **[Heroku](https://www.heroku.com)**: Fully-managed platform; the simplest path to delivering apps quickly. 
-* **[Netlify](https://www.netlify.com)**: An all-in-one workflow that combines global deployment, continuous integration, and automatic HTTPS. 
+* **[Netlify](https://www.netlify.com)**: An all-in-one workflow that combines global deployment, continuous integration, and automatic HTTPS.
+* **[$100/60 Days @ DigitalOcean](https://try.digitalocean.com/performance/?refcode=a8556eabbc8a)**: Use this promo code to get $100 worth of credit over 60 days at [Digital Ocean](https://www.digitalocean.com).
 
 ## Diagramming
 
