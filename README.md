@@ -31,7 +31,7 @@ Sample code assumes a column named `C2` contains a string in `username/reponame`
 **Example**: `droxey/tocsify`. ![](https://img.shields.io/github/last-commit/droxey/tocsify.svg?style=flat)
 
 ```
-=HYPERLINK(CONCATENATE("https://github.com/", C2), IMAGE(CONCAT(CONCAT("https://img.shields.io/github/last-commit/", C2), ".svg?style=flat"), 3)
+=IF(C2 > 0, HYPERLINK(CONCATENATE("https://github.com/", C2), IMAGE(CONCAT(CONCAT("https://img.shields.io/github/last-commit/", C2), ".svg?style=flat"), 3), "")
 ```
 
 ## Deployment
