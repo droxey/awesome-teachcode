@@ -7,6 +7,7 @@
 ## Table of Contents
 
 1. [Community](#Community)
+1. [Course Tracking](#Course-Tracking)
 1. [Deployment](#Deployment)
 1. [Diagramming](#Diagramming)
 1. [Feedback](#Feedback)
@@ -18,6 +19,20 @@
 ## Community 
 
 * **[dev.to](https://dev.to)**: Where programmers share ideas and help each other grow. An online community for sharing and discovering great ideas, having debates, and making friends. Anyone can share articles, questions, discussions, etc. as long as they have the rights to the words they are sharing. Cross-posting from your own blog is welcome.
+
+## Course Tracking
+
+Use [shields.io](https://shields.io) to embed automated code quality checks and other metrics in course tracking spreadsheets.
+
+### How to Embed
+
+Sample code assumes a column named `C2` contains a string in `username/reponame` format. Links to the associated GitHub repo.
+
+**Example**: `droxey/tocsify`. ![](https://img.shields.io/github/last-commit/droxey/tocsify.svg?style=flat)
+
+```
+=HYPERLINK(CONCATENATE("https://github.com/", C2), IMAGE(CONCAT(CONCAT("https://img.shields.io/github/last-commit/", C2), ".svg?style=flat"), 3)
+```
 
 ## Deployment
 
@@ -39,7 +54,7 @@
 * **[reviewable.io](https://reviewable.io/)**: GitHub code reviews done right.
 * **[CodeStream](https://github.com/TeamCodeStream/CodeStream)**: CodeStream is the knowledge base behind your codebase. Your dev team's discussions about code happen right inside the IDE, and are saved permanently with the code blocks to which they refer. That way your team, including its future members, benefits from working with an annotated codebase. With each discussion, your knowledge base grows and your codebase gets smarter over time.
 * **[gitinspector](https://github.com/ejwa/gitinspector)**: Statistical analysis tool for git repositories. The default analysis shows general statistics per author, which can be complemented with a timeline analysis that shows the workload and activity of each author. Under normal operation, it filters the results to only show statistics about a number of given extensions and by default only includes source files in the statistical analysis.
-* **[degit](https://github.com/Rich-Harris/degit)**: Makes copies of git repositories. Run `degit some-user/some-repo`, and degit will find the latest commit on https://github.com/some-user/some-repo and download the associated tar file to `~/.degit/some-user/some-repo/commithash.tar.gz` if it doesn't already exist locally. 
+* **[degit](https://github.com/Rich-Harris/degit)**: Makes copies of git repositories. Run `degit some-user/some-repo`, and degit will find the latest commit on https://github.com/some-user/some-repo and download the associated tar file to `~/.degit/some-user/some-repo/commithash.tar.gz` if it doesn't already exist locally.
 
 ## Learning Objectives
 
