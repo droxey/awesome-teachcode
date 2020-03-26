@@ -22,7 +22,7 @@ Visit your Personal Meeting settings and check the following **helpful options**
 
     ![waiting](assets/waiting.png)
 
-  - Customize the waiting room with welcome text, logo, and description in the . Here's an example of how I customized mine today for junior mock interviews:
+  - Customize the waiting room with welcome text, logo, and description on the [Advanced Settings](https://zoom.us/profile/setting?mid=&from=client) page. Here's an example of how I customized mine today for junior mock interviews:
 
     ![lobby](assets/lobby.png)
 
