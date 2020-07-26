@@ -2,8 +2,7 @@
 
 **[@droxey](https://github.com/droxey)'s streaming workstation**. Components in **blue** are integrated into OBS recordings and live streams.
 
-<p><img align="left" src="connections.svg" width="47.5%"></p>
-<p><img align="right" src="usage.svg" width="47.5%"></p>
+<p align="center"><img src="usage.svg" height="300"></p>
 
 ## Component List
 
@@ -15,6 +14,8 @@
 | ✏️ **Whiteboard** | [iPad Pro 11" + Pencil](https://www.apple.com/ipad-pro/) | ✅ | [⏬ Read More](#whiteboard) |
 | 🔗 **Dock** | [CalDigit USB-C Pro Dock](https://www.caldigit.com/usb-c-pro-dock/) | ✅ | [⏬ Read More](#dock) |
 | 🚀 **Mission Control** | [Elgato Stream Deck](https://www.elgato.com/en/gaming/stream-deck) | _Wish List_ | [⏬ Read More](#stream-deck) |
+
+<p align="center"><img src="connections.svg" height="300"></p>
 
 ## Component Details
 
