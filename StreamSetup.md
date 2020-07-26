@@ -8,7 +8,7 @@
 
 | ⚙️ Component | Name | In Use | Details |
 | ------------- | ---- | :-----: | :----: |
-| 🖥 **Monitors** | [LG 24UD58-B 24" 4K Monitor](https://www.lg.com/us/monitors/lg-24UD58-B-4k-uhd-led-monitor) _(2x)_ | ✅ | [⏬ Read More](#monitors) |
+| 🖥 **Monitors** | [LG 24UD58-B 24" 4K IPS UHD Monitor](https://www.lg.com/us/monitors/lg-24UD58-B-4k-uhd-led-monitor) _(2x)_ | ✅ | [⏬ Read More](#monitors) |
 | 🎥 **Webcam** | [Razer Kiyo](https://www.razer.com/streaming-cameras/razer-kiyo/RZ19-02320100-R3M1) | ✅ | [⏬ Read More](#webcam) |
 | 🎤 **Microphone** | [Yeti Nano](https://www.bluedesigns.com/products/yeti-nano/) | ✅ | [⏬ Read More](#microphone) |
 | ✏️ **Whiteboard** | [iPad Pro 11" + Pencil](https://www.apple.com/ipad-pro/) | ✅ | [⏬ Read More](#whiteboard) |
