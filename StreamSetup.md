@@ -2,7 +2,7 @@
 
 **[@droxey](https://github.com/droxey)'s streaming workstation**. Components in **blue** are integrated into OBS recordings and live streams.
 
-<p align="center"><img src="usage.svg" height="350"></p>
+<p align="center"><img src="assets/usage.svg" height="350"></p>
 
 ## Component List
 
@@ -15,7 +15,7 @@
 | 🔗 **Dock** | [CalDigit USB-C Pro Dock](https://www.caldigit.com/usb-c-pro-dock/) | ✅ | [⏬ Read More](#dock) |
 | 🚀 **Mission Control** | [Elgato Stream Deck](https://www.elgato.com/en/gaming/stream-deck) | _Wish List_ | [⏬ Read More](#stream-deck) |
 
-<p align="center"><img src="connections.svg" height="350"></p>
+<p align="center"><img src="assets/connections.svg" height="350"></p>
 
 ## Component Details
 

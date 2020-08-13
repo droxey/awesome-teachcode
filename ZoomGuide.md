@@ -3,9 +3,9 @@
 <!-- omit in toc -->
 ## Table of Contents
 
-1. [⚙️ Change Personal Meeting Room Settings](#%e2%9a%99%ef%b8%8f-change-personal-meeting-room-settings)
-1. [📹 Overview of Enabled Features](#%f0%9f%93%b9-overview-of-enabled-features)
-1. [✅ Optional Recommendations](#%e2%9c%85-optional-recommendations)
+- [⚙️ Change Personal Meeting Room Settings](#️-change-personal-meeting-room-settings)
+- [📹 Overview of Enabled Features](#-overview-of-enabled-features)
+- [✅ Optional Recommendations](#-optional-recommendations)
 
 ## ⚙️ Change Personal Meeting Room Settings
 
@@ -31,7 +31,7 @@ Visit your Personal Meeting settings and check the following **helpful options**
 ## ✅ Optional Recommendations
 
 - Complete your [Zoom Profile](https://zoom.us/profile). Many options are helpful for managing online course delivery.
-  - Change your Personal Meeting ID to something memorable. I use my phone number.
+  - Change your Personal Meeting ID to something memorable.
   - Connect to your Google Calendar to show your schedule on the Zoom home screen.
 - Consider using an additional monitor dedicated to the Zoom meeting room.
 - Configure your Zoom app by opening Preferences. Here's mine:
