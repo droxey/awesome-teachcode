@@ -1,19 +1,19 @@
-# Zoom Guide for Coaches & Instructors
+# Zoom Tips for Make School Coaches & Instructors
 
 <!-- omit in toc -->
-## Table of Contents
+## Table of Contents {docsify-ignore}
 
-- [⚙️ Change Personal Meeting Room Settings](#️-change-personal-meeting-room-settings)
-- [📹 Overview of Enabled Features](#-overview-of-enabled-features)
-- [✅ Optional Recommendations](#-optional-recommendations)
+- [Change Personal Meeting Room Settings](#change-personal-meeting-room-settings)
+- [Overview of Enabled Features](#overview-of-enabled-features)
+- [Optional Recommendations](#optional-recommendations)
 
-## ⚙️ Change Personal Meeting Room Settings
+## Change Personal Meeting Room Settings
 
 Visit your Personal Meeting settings and check the following **helpful options**:
 
 ![settings](assets/settings.png)
 
-## 📹 Overview of Enabled Features
+## Overview of Enabled Features
 
 - **Join Before Host**: Students can join the room before you arrive.
 - **Mute on Entry**: So you don't have to ask every time you start a meeting.
@@ -28,7 +28,7 @@ Visit your Personal Meeting settings and check the following **helpful options**
 
 - **Record Automatically to Cloud**: It's a good idea to record to cloud by default. Later, you can reference the recording to assist students, create a reusable video from the content, or delete it if it is no longer relevant.
 
-## ✅ Optional Recommendations
+## Optional Recommendations
 
 - Complete your [Zoom Profile](https://zoom.us/profile). Many options are helpful for managing online course delivery.
   - Change your Personal Meeting ID to something memorable.

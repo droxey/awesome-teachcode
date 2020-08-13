@@ -1,21 +1,21 @@
 # Autograders
 
 <!-- omit in toc -->
-## Table of Contents
+## Table of Contents {docsify-ignore}
 
-- [⭐️ Goal](#️-goal)
-- [🔧 Setup](#-setup)
-- [⚙️ Components](#️-components)
+- [Goal](#goal)
+- [Setup](#setup)
+- [Components](#components)
 
-## ⭐️ Goal
+## Goal
 
 Give students the same feedback upon assignment submission that they'd typically receive when pushing a commit in the workplace as a junior software engineer.
 
-## 🔧 Setup
+## Setup
 
 - When creating a Programming Assignment on Gradescope, make sure not to ignore the `.git` directory. This directory is is used to determine statistics about the submission.
 
-## ⚙️ Components
+## Components
 
 In addition to ensuring that the code successfully builds and executes, instructors may consider integrating the following tests into their workflow:
 
